@@ -82,7 +82,7 @@ body {
   font-size: 26px;
   text-transform: capitalize;
 }
-.text-Web2 {
+.top_bar__Tittel {
   margin: right 93px;
   font-family: Raleway;
   font-style: normal;
@@ -93,13 +93,13 @@ body {
   text-transform: capitalize;
 }
 
-.head-menu {
+.top_bar__menu {
   height: 80px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
 }
-.head-border {
+.top_bar {
   border: 1px solid #ececec;
 }
 .head-liste {
@@ -121,7 +121,7 @@ body {
 .head-menu-adres {
   margin-left: 46px;
 }
-.higlight {
+.top_bar__higlight {
   color: #2196f3;
 }
 .text-nav {
