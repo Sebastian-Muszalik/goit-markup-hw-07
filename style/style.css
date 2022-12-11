@@ -308,7 +308,26 @@ body {
   color: #fff;
   display: flex;
 } /*end job */
-
+/*Team*/
+.Team {
+  background-color: var(--color3);
+}
+.Team__options {
+  margin: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  max-width: 1200px;
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+.Team__Titel-head {
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 1.2em;
+  letter-spacing: 0.03em;
+  margin-bottom: 50px;
+  text-align: center;
+}
 /* klasa button */
 .frame-button:hover {
   background: #2196f3;
@@ -323,6 +342,7 @@ body {
 .main-width {
   max-width: 696px;
 }
+
 .frame-button2 {
   background: #f5f4fa;
   margin-left: 8px;
